@@ -19,7 +19,7 @@ const HeroSection = () => {
 
           <div className="brand-icons">
             <img src="/images/amazon.png" alt="amazon-logo" />
-            <img src="/images/flipkart.png" alt="flipkart-logo" />
+            
           </div>
         </div>
       </div>
